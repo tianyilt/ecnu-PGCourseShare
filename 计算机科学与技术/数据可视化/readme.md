@@ -1,5 +1,11 @@
+该课程详情见李晨辉老师的个人主页http://chenhui.li/courses/datavis2021.html
 
+老师讲课水平很高,课程中可以学到很多实用的技巧.
 
-http://chenhui.li/courses/datavis2021.html
+期末考核形式为项目:
+大家靠手速和py交易从12个主题里面抢到自己感兴趣的主题然后完成项目.
 
-http://chenhui.li/courses/datavis2020.html
+![1631791264358](assets/1631791264358.png)
+
+![1631791297000](assets/1631791297000.png)
+
