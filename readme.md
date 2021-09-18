@@ -92,16 +92,16 @@ TODOlist& Roadmap表示计划进一步撰写、细化的部分,以及仓库发�
   - [ ] 亿些学术小技巧.
 
     - [ ] 推荐科研技巧信息源,比如相关up主
-  - [ ] 优质的组会报告
+    - [ ] 优质的组会报告
     - [ ] 最佳实践hub:比如用docker缓解炼丹配环境的痛苦可能就需要3步
-
+  
     1. docker run
     
     ```bash
     docker run -itd -v /tmp/.X11-unix:/tmp/.X11-unix:rw -e DISPLAY=unix$DISPLAY --device /dev/dri --privileged --gpus all --shm-size 64G -v /data/project/base/tf210:/workspace -v /data/project/lty_admin/dotfile_for_container:/admin  -p 32771:22 -p 32116-32119:6006-6009 --name 'tf222' tf222:v1  /bin/bash 
-
+  
     ```
-
+  
     2. dotfile刷一遍,自动配好conda pip镜像 搞上带自动补全插件的zsh
     3. pycharm远程debug,让世界上没有难架的炼丹炉.
     
