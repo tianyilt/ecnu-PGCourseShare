@@ -1,4 +1,12 @@
-该课程详情见李晨辉老师的个人主页http://chenhui.li/courses/datavis2021.html
+该课程详情见李晨辉老师的个人主页http://chenhui.li
+
+研究生课程主页:
+http://chenhui.li/courses/graduate-datavis2021.html
+
+想研习可视化实践技巧,可以参考本科生的实验材料:
+http://chenhui.li/courses/datavis2020.html
+
+这两个网页都内部包含课件,实验的材料等,而且对全网用户开放,所以本仓库不另行收录.
 
 老师讲课水平很高,课程中可以学到很多实用的技巧.
 
