@@ -79,21 +79,24 @@ TODOlist& Roadmap表示计划进一步撰写、细化的部分,以及仓库发�
 
 - [ ] 作为研究生仓库,应该还添加学术情报资源.希望可以凝聚众多科研搬砖人形成各领域的seminar.
 
-  - [ ] 通用计算机科学研究情报方法 比如google hacker使用方法;更好的学术scolar 比如; connected paper/scite.ai等基于引文共现知识图谱; github中awesome list等社区维护的通用研究表单; 锁定领域内活跃内容生产者的方法,比如博主 up主 公众号.
+  - [ ] 通用计算机科学研究情报方法 比如google hacker使用方法;更好的学术scolar 比如; connected paper/scite.ai等基于引文共现知识图谱; github中awesome list 等社区维护的通用研究表单; 锁定领域内活跃内容生产者的方法,比如博主 up主 公众号.
 
   - [ ] 垂直研究领域的信息源推荐
 
     - [ ] 计算机视觉 深度学习与机器学习理论研究情报, paperswithcode/valse webinar/cvpr优质tutorial
-    - [ ] 图形学与可视化等偏向应用研究的传送门,比如games webinar, siggraph优质course
-    - [ ] et.al.欢迎补充,直接改readme然后pull request过来
-    - [ ] 校园内可达的相关领域大牛,可以蹭课去学术social
-    - [ ] 相关实验室情报,为跨学科交流甚至coauthor做准备
+    - [ ] 图形学与可视化等偏向应用研究的传送门,比如 games webinar, siggraph优质 course
+    - [ ] et.al.欢迎补充,直接改 readme 然后 pull request 过来
+    - [ ] 校园内可达的相关领域大牛,可以蹭课去学术 social
+    - [ ] 相关实验室情报,为跨学科交流甚至 coauthor 做准备
 
   - [ ] 亿些学术小技巧.
 
-    - [ ] 推荐科研技巧信息源,比如相关up主
+    - [ ] 推荐科研技巧信息源,比如相关 up 主
     - [ ] 优质的组会报告
-    - [ ] 最佳实践hub:比如用docker缓解炼丹配环境的痛苦可能就需要3步
+    - [ ] 最佳实践 hub, 比如用 docker 缓解炼丹配环境的痛苦可能就需要3步
+    - [ ] 一些学术工具帮助提升科研效率,例如:
+      - [connectedpapers](https://www.connectedpapers.com/) 用于查询当前关键词相关论文 + [CCF rank4dblp](https://github.com/WenyanLiu/CCFrank4dblp) 自动标注当前论文 CCF 等级
+      - [会伴](https://www.myhuiban.com/conferences/ccf) CCF DDL 查询
   
     1. docker run
     
