@@ -7,5 +7,5 @@
 1 每年的作业题不一样，如有需要联系管理员。
 2 作业题要求电子版，推荐latex。
 # 友情链接
-阳神的博客：https://godweiyang.com/tags/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6/
+阳神的博客：https://godweiyang.com/tags/%E5%85%B7%E4%BD%93%E6%95%B0%E5%AD%A6/ <br>
 overleaf上的模板：https://www.overleaf.com/articles/extra-credit-problem/dhppczmrnttk
