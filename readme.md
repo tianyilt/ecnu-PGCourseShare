@@ -14,7 +14,7 @@ ECNU Postgraduate Course Share Project
 
 ## 我应该如何使用
 
-如果你现在使用手机,强烈建议使用电脑端浏览
+如果你现在使用手机,强烈建议使用电脑端浏览,手机用户记得点击一下上方的code按钮查看内部文件.
 点击上方**Code**按钮可以看到一个类似百度网盘的页面
 
 - 我想[下载一部分文件](./doc/下载一份文件.md)
@@ -23,12 +23,13 @@ ECNU Postgraduate Course Share Project
 - 更加方便快捷地下载
   由于资料库比较大,可以先通过百度网盘链接下载,然后进行同步
 
-除了百度网盘之外还可以通过github的镜像来快速克隆，预计半小时就可以所有资料下载到本地，然后配合everything等文件检索工具来查找需要的资料。
+可以在命令行中通过github的镜像来快速克隆，预计半小时就可以所有资料下载到本地，然后配合everything等文件检索工具来查找需要的资料。
 
 ```
 git clone --depth=1 https://hub.fastgit.org/tianyilt/ecnu-PGCourseShare.git
 ```
 
+如果想在线快速浏览文件,可以访问`https://github1s.com/tianyilt/ecnu-PGCourseShare`, 可以体验在vscode里面看文件的感觉
 
 
 ## 前言
